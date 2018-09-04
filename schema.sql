@@ -5,7 +5,8 @@
 -- Dumped from database version 9.6.5
 -- Dumped by pg_dump version 9.6.5
 -- This database relations were designed by a bloody stupid freelancer
--- who successfully f**ked up everything
+-- who successfully f**ked up everything, and I have suffered enough from this shit
+-- And finally I have to change every occurance of Owner to ME so that I can bloody use it
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
