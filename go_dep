@@ -1,0 +1,5 @@
+https_proxy=socks5://127.0.0.1:1080 go get -u github.com/labstack/echo/...                                                                                                  [3:58:03]
+https_proxy=socks5://127.0.0.1:1080 go get -u golang.org/x/crypto/...                                                                                                       [3:59:03]
+https_proxy=socks5://127.0.0.1:1080 go get -u github.com/lib/pq                                                                                                             [4:02:21]
+https_proxy=socks5://127.0.0.1:1080 go get -u github.com/dgrijalva/jwt-go
+
