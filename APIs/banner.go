@@ -3,8 +3,7 @@ package APIs
 import (
 	"fmt"
 	"net/http"
-
-	"./DBConfig"
+	"github.com/csnand/APIProject/APIs/DBConfig"
 	"github.com/labstack/echo"
 )
 

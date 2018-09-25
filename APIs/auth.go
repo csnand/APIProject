@@ -5,7 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"./DBConfig"
+	"github.com/csnand/APIProject/APIs/DBConfig"
+	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo"
 	"golang.org/x/crypto/bcrypt"
 )

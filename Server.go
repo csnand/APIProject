@@ -2,8 +2,7 @@ package main
 
 import (
 	"net/http"
-
-	"./APIs"
+	"github.com/csnand/APIProject/APIs"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
 )

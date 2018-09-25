@@ -5,10 +5,8 @@ import (
 	"errors"
 	"fmt"
 	"net/http"
-
 	"golang.org/x/crypto/bcrypt"
-
-	"./DBConfig"
+	"github.com/csnand/APIProject/APIs/DBConfig"
 	"github.com/labstack/echo"
 )
 

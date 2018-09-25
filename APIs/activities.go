@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"./DBConfig"
+	"github.com/csnand/APIProject/APIs/DBConfig"
 	"github.com/labstack/echo"
 	"github.com/lib/pq"
 )

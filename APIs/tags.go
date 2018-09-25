@@ -3,8 +3,7 @@ package APIs
 import (
 	"database/sql"
 	"net/http"
-
-	"./DBConfig"
+	"github.com/csnand/APIProject/APIs/DBConfig"
 	"github.com/labstack/echo"
 	_ "github.com/lib/pq"
 )
